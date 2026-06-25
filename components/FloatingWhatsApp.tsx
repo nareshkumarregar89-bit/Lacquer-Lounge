@@ -3,7 +3,7 @@
 import { MessageCircle } from "lucide-react";
 
 // Replace this with your actual WhatsApp number (include country code without +)
-const WHATSAPP_NUMBER = "919547422388";
+const WHATSAPP_NUMBER = "917477680686";
 
 export default function FloatingWhatsApp() {
   const handleWhatsAppClick = () => {
